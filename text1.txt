@@ -1,2 +1,2 @@
 Hello, Githut!
-First to update text1.txt.
+First to update text1.txt!
